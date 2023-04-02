@@ -21,6 +21,10 @@ Figma is rapid prototyping and is a desgin tool.
 
 A wireframe is a simple version of a website that can be tested really easy. It has no details just a rudimentary strutcure.
 
+## High Fidelity Mockups
+
+Once a wireframe is complete, we can them add in all the other details to the project for eg brand colors, logos, fonts, etc.
+
 ## Using Adobe Illustrator in Figma
 
 If the image is too complex for figma we can follow the steps below:
