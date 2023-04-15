@@ -102,6 +102,18 @@ To create a fixed Navigation Bar, after selecting the element we can either
 1. Under Constraints select the Fix position when scrolling option, or
 2. Under the Prototype section in the panel on the right hand side under Scroll Behaviour, change the Poisiton to Fixed.
 
+## Recreating the scroll effect
+
+When creating a frame we can select clip content to clip anything sitting outside the frame.
+
+To create the scroll effect in the video, we can do the following:
+
+1. Double the size of the main frame and replace the background image with the second image.
+2. Hide the second section by decreasing the height of the parent frame.
+3. Duplicate the parent frame.
+4. Select both sections and hold down shift and drag the items until the next frame appears.
+5. Under prototype we then connect the first page frame to the second and vice-versa and select the "On CLick" interaction, then animate it as necessary.
+
 # Shortcuts
 
 1. Use Command to directly select an element even if it is nested.
@@ -111,4 +123,5 @@ To create a fixed Navigation Bar, after selecting the element we can either
 5. Use F to create a new frame.
 6. Hold down Option while hovering to use the measuring tool.
 7. Use Shift + G to toggle the grid layout off and on.
-8. Use COmmand + Option + G to create a Frame around a selection of elements.
+8. Use Command + Option + G to create a Frame around a selection of elements.
+9. Use COmmand + D to duplicate an item.
